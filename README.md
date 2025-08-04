@@ -1,6 +1,6 @@
 # Voting
 
-DAO voting platform for [Talent Olympics](https://earn.superteam.fun/hackathon/talent-olympics/).
+Decaying-unlock DAO voting platform for [Talent Olympics](https://earn.superteam.fun/hackathon/talent-olympics/).
 
 [Source Repository](https://github.com/ChiefWoods/voting)
 
